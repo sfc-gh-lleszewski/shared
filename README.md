@@ -1,1 +1,3 @@
 # shared
+
+Repository for workoshops
